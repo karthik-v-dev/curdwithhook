@@ -1,0 +1,12 @@
+{
+  "EmployeeList": [
+    {
+      "Eid": "EMP77252",
+      "Ename": "karthik",
+      "Mobile": "9705547444",
+      "Email": "karthik@softi.com",
+      "Gender": "Male",
+      "id": 1
+    }
+  ]
+}
